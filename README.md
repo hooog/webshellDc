@@ -25,11 +25,7 @@ python webshellDc.py
 
 ## 运行截图 
 <!-- ![mlpevaluation](pic/1.jpg) -->
-<<<<<<< HEAD
 <img src="pic/1.jpg" width = "350" height = "500" div align=center />
-=======
-> <img src="pic/1.jpg" width = "350" height = "350" div align=left />
->>>>>>> ff4ce1f6b490ecd9f303a08c87a30921b117a3b6
 
 
 ## 联系方式
