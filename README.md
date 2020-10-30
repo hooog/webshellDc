@@ -1,7 +1,7 @@
 # webshellDc v0.1
-```
+
 webshell通常是指利用asp、jsp、php、py、pl脚本语言编写，对web服务器进行管理的工具，也叫webadmin。webshell可以用来上传下载文件，查看数据库，系统命令调用，因此常被黑客利用并对服务器进行一系列入侵操作，具备威胁大、隐蔽性强等特点。
-```
+
 
 本项目分别收集了160个Github项目的webshell黑样本和大量个开源php、jsp、asp、java项目作为白样本，去重后黑样本2944个，白样本11945个，采用CountVectorizer和TfidfTransformer对n-gram后的样本进行特征向量处理，分别采用多层神经网络、XGBoost、朴素贝叶斯进行训练。其中MLPClassifier模型表现较好。
 
