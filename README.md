@@ -19,15 +19,14 @@ python webshellDc.py
 
 ## 训练环境 
 
->系统：macOS 16 GB + python 3.6.3
->执行时间：134s
+> 系统：macOS 16 GB + python 3.6.3
+> 执行时间：134s
 
 
 ## 运行截图 
 <!-- ![mlpevaluation](pic/1.jpg) -->
-<!-- <img src="pic/1.jpg" width = "350" height = "350" div align=left /> -->
-<!-- ![mlpevaluation](pic/1.jpg) -->
-![](https://tva1.sinaimg.cn/large/0081Kckwgy1gk7crkzpuyj30u013uqfc.jpg)
+> <img src="pic/1.jpg" width = "350" height = "350" div align=left />
+
 
 ## 联系方式
 
