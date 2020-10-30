@@ -28,12 +28,6 @@ python webshellDc.py
 <img src="pic/1.jpg" width = "350" height = "500" div align=center />
 
 
-## 联系方式
-
-作者：月亮与六便士
-微信：326356198
-
-
 白名单检测：
 检测总量:11945, 检测出webshell:23, 检测出正常文件:11922
 误报率：0.0019254918375889493
