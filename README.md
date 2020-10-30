@@ -24,7 +24,8 @@ python webshellDc.py
 
 
 ## 运行截图 
-![mlpevaluation](pic/1.jpg)
+<!-- ![mlpevaluation](pic/1.jpg) -->
+<img src="pic/1.jpg" width = "350" height = "250" div align=left />
 
 
 ## 联系方式
