@@ -1,0 +1,210 @@
+2020-07-20 15:48:29,770 - train.py[line:122] - INFO: 训练耗时：148.7166247367859
+2020-07-20 16:20:34,958 - train.py[line:72] - INFO: 白样本：11955
+2020-07-20 16:20:34,959 - train.py[line:73] - INFO: 黑样本：2944
+2020-07-20 16:24:30,351 - train.py[line:72] - INFO: 白样本：11955
+2020-07-20 16:24:30,351 - train.py[line:73] - INFO: 黑样本：2944
+2020-07-20 16:27:06,981 - train.py[line:116] - INFO: 初始化参数：
+2020-07-20 16:27:50,587 - train.py[line:116] - INFO: 初始化参数：
+2020-07-20 16:27:50,587 - train.py[line:117] - INFO: 当前训练版本号：v0
+2020-07-20 16:27:50,587 - train.py[line:118] - INFO: 白样本：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/normal
+2020-07-20 16:27:50,588 - train.py[line:119] - INFO: 黑样本：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/webshell
+2020-07-20 16:27:50,588 - train.py[line:120] - INFO: 训练模型：mlp
+2020-07-20 16:27:50,588 - train.py[line:121] - INFO: 随即种子：777
+2020-07-20 16:27:50,588 - train.py[line:122] - INFO: 特征维度：25000
+2020-07-20 16:28:13,146 - train.py[line:72] - INFO: 白样本：11955
+2020-07-20 16:28:13,146 - train.py[line:73] - INFO: 黑样本：2944
+2020-07-20 16:29:10,831 - train.py[line:116] - INFO: 初始化参数：
+2020-07-20 16:29:10,831 - train.py[line:117] - INFO: 当前训练版本号：v0
+2020-07-20 16:29:10,831 - train.py[line:118] - INFO: 白样本路径：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/normal
+2020-07-20 16:29:10,831 - train.py[line:119] - INFO: 黑样本路径：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/webshell
+2020-07-20 16:29:10,831 - train.py[line:120] - INFO: 训练模型：mlp
+2020-07-20 16:29:10,831 - train.py[line:121] - INFO: 随机种子：777
+2020-07-20 16:29:10,831 - train.py[line:122] - INFO: 特征维度：25000
+2020-07-20 16:29:25,707 - train.py[line:72] - INFO: 白样本总量：11955
+2020-07-20 16:29:25,707 - train.py[line:73] - INFO: 黑样本总量：2944
+2020-07-20 16:32:08,022 - train.py[line:99] - INFO: 训练集评估：
+2020-07-20 16:32:08,585 - train.py[line:89] - INFO: 准确率:0.999808227059162
+2020-07-20 16:32:08,601 - train.py[line:90] - INFO: [[8372    1]
+ [   1 2055]]
+2020-07-20 16:32:08,609 - train.py[line:91] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      8373
+          1       1.00      1.00      1.00      2056
+
+avg / total       1.00      1.00      1.00     10429
+
+2020-07-20 16:32:08,611 - train.py[line:101] - INFO: 测试集评估：
+2020-07-20 16:32:09,026 - train.py[line:89] - INFO: 准确率:0.9910514541387024
+2020-07-20 16:32:09,035 - train.py[line:90] - INFO: [[3560   22]
+ [  18  870]]
+2020-07-20 16:32:09,039 - train.py[line:91] - INFO:              precision    recall  f1-score   support
+
+          0       0.99      0.99      0.99      3582
+          1       0.98      0.98      0.98       888
+
+avg / total       0.99      0.99      0.99      4470
+
+2020-07-20 16:32:09,417 - train.py[line:127] - INFO: 训练耗时：178.58603620529175
+2020-07-20 16:32:34,282 - train.py[line:116] - INFO: 初始化参数：
+2020-07-20 16:32:34,282 - train.py[line:117] - INFO: 当前训练版本号：v1
+2020-07-20 16:32:34,282 - train.py[line:118] - INFO: 白样本路径：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/normal
+2020-07-20 16:32:34,282 - train.py[line:119] - INFO: 黑样本路径：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/webshell
+2020-07-20 16:32:34,283 - train.py[line:120] - INFO: 训练模型：mlp
+2020-07-20 16:32:34,283 - train.py[line:121] - INFO: 随机种子：777
+2020-07-20 16:32:34,283 - train.py[line:122] - INFO: 特征维度：25000
+2020-07-20 16:32:55,886 - train.py[line:116] - INFO: 初始化参数：
+2020-07-20 16:32:55,887 - train.py[line:117] - INFO: 当前训练版本号：v1
+2020-07-20 16:32:55,887 - train.py[line:118] - INFO: 白样本路径：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/normal
+2020-07-20 16:32:55,887 - train.py[line:119] - INFO: 黑样本路径：/Users/hadoop/Jupyter/恶意代码/webshell/dataset/webshell
+2020-07-20 16:32:55,887 - train.py[line:120] - INFO: 训练模型：mlp
+2020-07-20 16:32:55,887 - train.py[line:121] - INFO: 随机种子：666
+2020-07-20 16:32:55,887 - train.py[line:122] - INFO: 特征维度：25000
+2020-07-20 16:33:15,973 - train.py[line:72] - INFO: 白样本总量：11955
+2020-07-20 16:33:15,973 - train.py[line:73] - INFO: 黑样本总量：2944
+2020-07-20 16:35:51,871 - train.py[line:99] - INFO: 训练集评估：
+2020-07-20 16:35:53,377 - train.py[line:89] - INFO: 准确率:1.0
+2020-07-20 16:35:53,421 - train.py[line:90] - INFO: [[8393    0]
+ [   0 2036]]
+2020-07-20 16:35:53,438 - train.py[line:91] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      8393
+          1       1.00      1.00      1.00      2036
+
+avg / total       1.00      1.00      1.00     10429
+
+2020-07-20 16:35:53,438 - train.py[line:101] - INFO: 测试集评估：
+2020-07-20 16:35:54,622 - train.py[line:89] - INFO: 准确率:0.9937360178970918
+2020-07-20 16:35:54,642 - train.py[line:90] - INFO: [[3552   10]
+ [  18  890]]
+2020-07-20 16:35:54,665 - train.py[line:91] - INFO:              precision    recall  f1-score   support
+
+          0       0.99      1.00      1.00      3562
+          1       0.99      0.98      0.98       908
+
+avg / total       0.99      0.99      0.99      4470
+
+2020-07-20 16:35:55,162 - train.py[line:127] - INFO: 训练耗时：179.27528595924377
+2020-08-12 14:41:26,580 - train.py[line:116] - INFO: 初始化参数：
+2020-08-12 14:41:26,580 - train.py[line:117] - INFO: 当前训练版本号：v0
+2020-08-12 14:41:26,580 - train.py[line:118] - INFO: 白样本路径：dataset/dataset/normal
+2020-08-12 14:41:26,580 - train.py[line:119] - INFO: 黑样本路径：dataset/dataset/webshell
+2020-08-12 14:41:26,580 - train.py[line:120] - INFO: 训练模型：mlp
+2020-08-12 14:41:26,580 - train.py[line:121] - INFO: 随机种子：777
+2020-08-12 14:41:26,580 - train.py[line:122] - INFO: 特征维度：25000
+2020-08-12 14:41:44,037 - train.py[line:72] - INFO: 白样本总量：11928
+2020-08-12 14:41:44,037 - train.py[line:73] - INFO: 黑样本总量：2944
+2020-08-12 14:43:52,266 - train.py[line:99] - INFO: 训练集评估：
+2020-08-12 14:43:52,635 - train.py[line:89] - INFO: 准确率:0.9998078770413065
+2020-08-12 14:43:52,651 - train.py[line:90] - INFO: [[8351    1]
+ [   1 2057]]
+2020-08-12 14:43:52,656 - train.py[line:91] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      8352
+          1       1.00      1.00      1.00      2058
+
+avg / total       1.00      1.00      1.00     10410
+
+2020-08-12 14:43:52,659 - train.py[line:101] - INFO: 测试集评估：
+2020-08-12 14:43:52,880 - train.py[line:89] - INFO: 准确率:0.9937247870909905
+2020-08-12 14:43:52,885 - train.py[line:90] - INFO: [[3563   13]
+ [  15  871]]
+2020-08-12 14:43:52,888 - train.py[line:91] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      3576
+          1       0.99      0.98      0.98       886
+
+avg / total       0.99      0.99      0.99      4462
+
+2020-08-12 14:43:53,142 - train.py[line:127] - INFO: 训练耗时：146.56202912330627
+2020-08-12 15:28:12,545 - train.py[line:140] - INFO: 初始化参数：
+2020-08-12 15:28:12,545 - train.py[line:141] - INFO: 当前训练版本号：v0
+2020-08-12 15:28:12,545 - train.py[line:142] - INFO: 白样本路径：dataset/dataset/normal
+2020-08-12 15:28:12,546 - train.py[line:143] - INFO: 黑样本路径：dataset/dataset/webshell
+2020-08-12 15:28:12,546 - train.py[line:144] - INFO: 训练模型：mlp
+2020-08-12 15:28:12,546 - train.py[line:145] - INFO: 随机种子：777
+2020-08-12 15:28:12,546 - train.py[line:146] - INFO: 特征维度：25000
+2020-08-12 15:28:31,642 - train.py[line:73] - INFO: 白样本总量：11928
+2020-08-12 15:28:31,642 - train.py[line:74] - INFO: 黑样本总量：2944
+2020-08-12 15:30:36,342 - train.py[line:124] - INFO: 测试集评估：
+2020-08-12 15:30:36,589 - train.py[line:112] - INFO: 准确率:0.9937247870909905
+2020-08-12 15:30:36,596 - train.py[line:113] - INFO: [[3563   13]
+ [  15  871]]
+2020-08-12 15:30:36,601 - train.py[line:114] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      3576
+          1       0.99      0.98      0.98       886
+
+avg / total       0.99      0.99      0.99      4462
+
+2020-08-12 15:30:37,934 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-12 15:30:37,974 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-12 15:32:47,656 - train.py[line:151] - INFO: 训练耗时：275.1095280647278
+2020-08-12 15:38:10,802 - train.py[line:147] - INFO: 初始化参数：
+2020-08-12 15:38:10,802 - train.py[line:148] - INFO: 当前训练版本号：v0
+2020-08-12 15:38:10,802 - train.py[line:149] - INFO: 白样本路径：dataset/dataset/normal
+2020-08-12 15:38:10,802 - train.py[line:150] - INFO: 黑样本路径：dataset/dataset/webshell
+2020-08-12 15:38:10,802 - train.py[line:151] - INFO: 训练模型：mlp
+2020-08-12 15:38:10,802 - train.py[line:152] - INFO: 随机种子：777
+2020-08-12 15:38:10,802 - train.py[line:153] - INFO: 特征维度：25000
+2020-08-12 15:38:28,691 - train.py[line:73] - INFO: 白样本总量：11928
+2020-08-12 15:38:28,691 - train.py[line:74] - INFO: 黑样本总量：2944
+2020-08-12 15:40:40,195 - train.py[line:131] - INFO: 测试集评估：
+2020-08-12 15:40:40,449 - train.py[line:119] - INFO: 准确率:0.9937247870909905
+2020-08-12 15:40:40,456 - train.py[line:120] - INFO: [[3563   13]
+ [  15  871]]
+2020-08-12 15:40:40,459 - train.py[line:121] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      3576
+          1       0.99      0.98      0.98       886
+
+avg / total       0.99      0.99      0.99      4462
+
+2020-08-12 15:40:41,361 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-12 15:40:41,390 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-12 15:48:35,288 - train.py[line:158] - INFO: 训练耗时：624.4852471351624
+2020-08-12 15:53:13,740 - train.py[line:147] - INFO: 初始化参数：
+2020-08-12 15:53:13,740 - train.py[line:148] - INFO: 当前训练版本号：v0
+2020-08-12 15:53:13,741 - train.py[line:149] - INFO: 白样本路径：dataset/dataset/normal
+2020-08-12 15:53:13,741 - train.py[line:150] - INFO: 黑样本路径：dataset/dataset/webshell
+2020-08-12 15:53:13,741 - train.py[line:151] - INFO: 训练模型：mlp
+2020-08-12 15:53:13,741 - train.py[line:152] - INFO: 随机种子：777
+2020-08-12 15:53:13,741 - train.py[line:153] - INFO: 特征维度：25000
+2020-08-12 15:53:31,687 - train.py[line:73] - INFO: 白样本总量：11928
+2020-08-12 15:53:31,687 - train.py[line:74] - INFO: 黑样本总量：2944
+2020-08-12 15:55:42,848 - train.py[line:131] - INFO: 测试集评估：
+2020-08-12 15:55:43,293 - train.py[line:119] - INFO: 准确率:0.9937247870909905
+2020-08-12 15:55:43,300 - train.py[line:120] - INFO: [[3563   13]
+ [  15  871]]
+2020-08-12 15:55:43,303 - train.py[line:121] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      3576
+          1       0.99      0.98      0.98       886
+
+avg / total       0.99      0.99      0.99      4462
+
+2020-08-12 15:55:50,371 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-12 15:55:50,398 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-12 15:58:50,293 - train.py[line:158] - INFO: 训练耗时：336.55256724357605
+2020-08-13 09:06:01,743 - train.py[line:147] - INFO: 初始化参数：
+2020-08-13 09:06:01,744 - train.py[line:148] - INFO: 当前训练版本号：v0
+2020-08-13 09:06:01,744 - train.py[line:149] - INFO: 白样本路径：dataset/dataset/normal
+2020-08-13 09:06:01,744 - train.py[line:150] - INFO: 黑样本路径：dataset/dataset/webshell
+2020-08-13 09:06:01,744 - train.py[line:151] - INFO: 训练模型：mlp
+2020-08-13 09:06:01,744 - train.py[line:152] - INFO: 随机种子：777
+2020-08-13 09:06:01,744 - train.py[line:153] - INFO: 特征维度：25000
+2020-08-13 09:06:21,212 - train.py[line:73] - INFO: 白样本总量：11928
+2020-08-13 09:06:21,212 - train.py[line:74] - INFO: 黑样本总量：2944
+2020-08-13 09:08:31,024 - train.py[line:131] - INFO: 测试集评估：
+2020-08-13 09:08:31,256 - train.py[line:119] - INFO: 准确率:0.9937247870909905
+2020-08-13 09:08:31,268 - train.py[line:120] - INFO: [[3563   13]
+ [  15  871]]
+2020-08-13 09:08:31,270 - train.py[line:121] - INFO:              precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00      3576
+          1       0.99      0.98      0.98       886
+
+avg / total       0.99      0.99      0.99      4462
+
+2020-08-13 09:08:32,249 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-13 09:08:32,284 - /Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/font_manager.py[line:1343] - DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Users/hadoop/anaconda3/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2020-08-13 09:09:50,606 - train.py[line:158] - INFO: 训练耗时：228.86156272888184
