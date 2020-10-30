@@ -2,7 +2,6 @@
 # coding=utf-8
 # Python3
 """
-@Dept  : 云计算安全研发中心
 @Author: liuhaojie
 @File  : train.py
 @Idea  : IntelliJ IDEA
